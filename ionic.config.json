@@ -1,0 +1,7 @@
+{
+  "name": "PolarQR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
